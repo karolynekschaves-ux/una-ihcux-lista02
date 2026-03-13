@@ -15,4 +15,4 @@ Arquivos que o .NET criou para mim:
 ## 📸 Evidência de Execução
 ![Print do terminal rodando o projeto](./minha-evidencia.png)# una-ihcux-lista02
 
-file:///C:/Users/karol/Desktop/Captura%20de%20tela%202026-03-13%20203124.png
+<!-- Uploading "Captura de tela 2026-03-13 203124.png"... -->
